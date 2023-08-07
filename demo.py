@@ -1,3 +1,9 @@
-#This is python code to display "hello world" message
+#This is python langage
 print("hello world")
-print("Foss practical on GitHub")
+print("This is foss practical on GitHub")
+#This is python langage
+print("hello world")
+print("This is foss practical on GitHub")
+#This is python langage
+print("hello world")
+print("This is foss practical on GitHub")
